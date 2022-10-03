@@ -1,36 +1,37 @@
 .cards{
     display: flex;
-    margin-top: 20px;
-    margin-left: 160px;
+    margin-top: 15px;
+    margin-left: 200px;
+    
 }
 .card1{
-    height: 220px;
+    height: 200px;
     width: 250px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     align-content: center;
     border-radius: 20px;
 }
 .card2{
-    height: 220px;
+    height: 200px;
     width: 250px;
-    margin-left: 40px;
+    margin-left: 30px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     align-content: center;
     border-radius: 20px;
     
 }
 .card3{
-    height: 220px;
+    height: 200px;
     width: 250px;
-    margin-left: 40px;
+    margin-left: 30px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     align-content: center;
     border-radius: 20px;
 }
 .card4{
-    height: 220px;
+    height: 200px;
     width: 250px;
-    margin-left: 40px;
+    margin-left: 30px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     align-content: center;
     border-radius: 20px;
@@ -38,8 +39,8 @@
 .Progress{
     height: 125px;
     width: 125px;
-    margin-left: 60px;
+    margin-left: 55px;
 }
-h2{
+h3{
     margin-left: 95px;
 }
