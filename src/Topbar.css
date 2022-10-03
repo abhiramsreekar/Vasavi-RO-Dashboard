@@ -1,0 +1,27 @@
+.Heading{
+    display: flex;
+    margin-top: 10px;
+    align-content: flex-start;
+    margin-left: 20px;
+    justify-content: space-between;
+}
+#pic{
+    display: flex;
+    height: 35px;
+    width: 35px;
+}
+.topbar{
+    margin-left: -8px;
+    margin-top: -8px;
+    display: flex;
+    height: 50px;
+    width: 101.05%;
+    background-color: #1F618D;   
+}
+#Name{
+    margin-left: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: bold;
+    font-size: x-large;
+    color: white;
+}
