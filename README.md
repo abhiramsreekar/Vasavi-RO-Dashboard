@@ -1,11 +1,11 @@
-# VasaviDashboard
+# Vasavi Dashboard
 A dashboard to monitor various IoT nodes deployed in Vasavi College of Engineering.
 
 The Dashboard will monitor various nodes under the smart city initiative such as Air Pollution node, Water Hardness nodes etc. 
 
 Air Pollution nodes
 - The Air Pollution nodes are built using ESP8266, SDS011 air quality sensor and a AHT10 temperature sensor.
-- We gather Pm 2.5, Pm10, Temperature values to calculate AQI.
+- We gather Pm 2.5, Pm 10, Temperature values to calculate AQI.
 Front-end:
 
 ReactJS will be the framework used to build the front end of the website.
